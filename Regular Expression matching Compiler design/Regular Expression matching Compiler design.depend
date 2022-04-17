@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650212023 source:d:\codeblock codes\regular expression matching compiler design\main.cpp
+	<iostream>
+	<string>
+	<regex>
+
